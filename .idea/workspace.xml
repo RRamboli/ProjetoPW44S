@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b0cfffbd-ae0c-4890-8e2d-7ba8e05d0af5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/bitewize-main/client/node_modules/.vite/deps/_metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/bitewize-main/client/node_modules/.vite/deps/_metadata.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitewize-main/client/node_modules/.vite/deps/axios.js" beforeDir="false" afterPath="$PROJECT_DIR$/bitewize-main/client/node_modules/.vite/deps/axios.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitewize-main/client/node_modules/.vite/deps/axios.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/bitewize-main/client/node_modules/.vite/deps/axios.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitewize-main/client/node_modules/.vite/deps/chunk-G3PMV62Z.js" beforeDir="false" afterPath="$PROJECT_DIR$/bitewize-main/client/node_modules/.vite/deps/chunk-G3PMV62Z.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitewize-main/client/node_modules/.vite/deps/chunk-G3PMV62Z.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/bitewize-main/client/node_modules/.vite/deps/chunk-G3PMV62Z.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitewize-main/client/node_modules/.vite/deps/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/bitewize-main/client/node_modules/.vite/deps/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitewize-main/client/node_modules/.vite/deps/primereact_api.js" beforeDir="false" afterPath="$PROJECT_DIR$/bitewize-main/client/node_modules/.vite/deps/primereact_api.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitewize-main/client/node_modules/.vite/deps/primereact_api.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/bitewize-main/client/node_modules/.vite/deps/primereact_api.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitewize-main/client/node_modules/.vite/deps/primereact_avatar.js" beforeDir="false" afterPath="$PROJECT_DIR$/bitewize-main/client/node_modules/.vite/deps/primereact_avatar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitewize-main/client/node_modules/.vite/deps/primereact_avatar.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/bitewize-main/client/node_modules/.vite/deps/primereact_avatar.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitewize-main/client/node_modules/.vite/deps/primereact_button.js" beforeDir="false" afterPath="$PROJECT_DIR$/bitewize-main/client/node_modules/.vite/deps/primereact_button.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitewize-main/client/node_modules/.vite/deps/primereact_button.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/bitewize-main/client/node_modules/.vite/deps/primereact_button.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitewize-main/client/node_modules/.vite/deps/primereact_card.js" beforeDir="false" afterPath="$PROJECT_DIR$/bitewize-main/client/node_modules/.vite/deps/primereact_card.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitewize-main/client/node_modules/.vite/deps/primereact_card.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/bitewize-main/client/node_modules/.vite/deps/primereact_card.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitewize-main/client/node_modules/.vite/deps/primereact_column.js" beforeDir="false" afterPath="$PROJECT_DIR$/bitewize-main/client/node_modules/.vite/deps/primereact_column.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitewize-main/client/node_modules/.vite/deps/primereact_column.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/bitewize-main/client/node_modules/.vite/deps/primereact_column.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitewize-main/client/node_modules/.vite/deps/primereact_datatable.js" beforeDir="false" afterPath="$PROJECT_DIR$/bitewize-main/client/node_modules/.vite/deps/primereact_datatable.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitewize-main/client/node_modules/.vite/deps/primereact_datatable.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/bitewize-main/client/node_modules/.vite/deps/primereact_datatable.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitewize-main/client/node_modules/.vite/deps/primereact_dropdown.js" beforeDir="false" afterPath="$PROJECT_DIR$/bitewize-main/client/node_modules/.vite/deps/primereact_dropdown.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitewize-main/client/node_modules/.vite/deps/primereact_dropdown.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/bitewize-main/client/node_modules/.vite/deps/primereact_dropdown.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitewize-main/client/node_modules/.vite/deps/primereact_inputnumber.js" beforeDir="false" afterPath="$PROJECT_DIR$/bitewize-main/client/node_modules/.vite/deps/primereact_inputnumber.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitewize-main/client/node_modules/.vite/deps/primereact_inputnumber.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/bitewize-main/client/node_modules/.vite/deps/primereact_inputnumber.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitewize-main/client/node_modules/.vite/deps/primereact_inputswitch.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitewize-main/client/node_modules/.vite/deps/primereact_inputswitch.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitewize-main/client/node_modules/.vite/deps/primereact_inputtext.js" beforeDir="false" afterPath="$PROJECT_DIR$/bitewize-main/client/node_modules/.vite/deps/primereact_inputtext.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitewize-main/client/node_modules/.vite/deps/primereact_inputtext.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/bitewize-main/client/node_modules/.vite/deps/primereact_inputtext.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitewize-main/client/node_modules/.vite/deps/primereact_inputtextarea.js" beforeDir="false" afterPath="$PROJECT_DIR$/bitewize-main/client/node_modules/.vite/deps/primereact_inputtextarea.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitewize-main/client/node_modules/.vite/deps/primereact_inputtextarea.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/bitewize-main/client/node_modules/.vite/deps/primereact_inputtextarea.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitewize-main/client/node_modules/.vite/deps/primereact_menubar.js" beforeDir="false" afterPath="$PROJECT_DIR$/bitewize-main/client/node_modules/.vite/deps/primereact_menubar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitewize-main/client/node_modules/.vite/deps/primereact_menubar.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/bitewize-main/client/node_modules/.vite/deps/primereact_menubar.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitewize-main/client/node_modules/.vite/deps/primereact_password.js" beforeDir="false" afterPath="$PROJECT_DIR$/bitewize-main/client/node_modules/.vite/deps/primereact_password.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitewize-main/client/node_modules/.vite/deps/primereact_password.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/bitewize-main/client/node_modules/.vite/deps/primereact_password.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitewize-main/client/node_modules/.vite/deps/primereact_toast.js" beforeDir="false" afterPath="$PROJECT_DIR$/bitewize-main/client/node_modules/.vite/deps/primereact_toast.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitewize-main/client/node_modules/.vite/deps/primereact_toast.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/bitewize-main/client/node_modules/.vite/deps/primereact_toast.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitewize-main/client/node_modules/.vite/deps/primereact_utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/bitewize-main/client/node_modules/.vite/deps/primereact_utils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitewize-main/client/node_modules/.vite/deps/primereact_utils.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/bitewize-main/client/node_modules/.vite/deps/primereact_utils.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitewize-main/client/node_modules/.vite/deps/react-dom.js" beforeDir="false" afterPath="$PROJECT_DIR$/bitewize-main/client/node_modules/.vite/deps/react-dom.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitewize-main/client/node_modules/.vite/deps/react-dom.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/bitewize-main/client/node_modules/.vite/deps/react-dom.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitewize-main/client/node_modules/.vite/deps/react-dom_client.js" beforeDir="false" afterPath="$PROJECT_DIR$/bitewize-main/client/node_modules/.vite/deps/react-dom_client.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitewize-main/client/node_modules/.vite/deps/react-dom_client.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/bitewize-main/client/node_modules/.vite/deps/react-dom_client.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitewize-main/client/node_modules/.vite/deps/react-hook-form.js" beforeDir="false" afterPath="$PROJECT_DIR$/bitewize-main/client/node_modules/.vite/deps/react-hook-form.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitewize-main/client/node_modules/.vite/deps/react-hook-form.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/bitewize-main/client/node_modules/.vite/deps/react-hook-form.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitewize-main/client/node_modules/.vite/deps/react-router-dom.js" beforeDir="false" afterPath="$PROJECT_DIR$/bitewize-main/client/node_modules/.vite/deps/react-router-dom.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitewize-main/client/node_modules/.vite/deps/react-router-dom.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/bitewize-main/client/node_modules/.vite/deps/react-router-dom.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitewize-main/client/node_modules/.vite/deps/react.js" beforeDir="false" afterPath="$PROJECT_DIR$/bitewize-main/client/node_modules/.vite/deps/react.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitewize-main/client/node_modules/.vite/deps/react.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/bitewize-main/client/node_modules/.vite/deps/react.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitewize-main/client/node_modules/.vite/deps/react_jsx-dev-runtime.js" beforeDir="false" afterPath="$PROJECT_DIR$/bitewize-main/client/node_modules/.vite/deps/react_jsx-dev-runtime.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitewize-main/client/node_modules/.vite/deps/react_jsx-dev-runtime.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/bitewize-main/client/node_modules/.vite/deps/react_jsx-dev-runtime.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitewize-main/client/node_modules/.vite/deps/react_jsx-runtime.js" beforeDir="false" afterPath="$PROJECT_DIR$/bitewize-main/client/node_modules/.vite/deps/react_jsx-runtime.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitewize-main/client/node_modules/.vite/deps/react_jsx-runtime.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/bitewize-main/client/node_modules/.vite/deps/react_jsx-runtime.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitewize-main/client/src/context/AuthContext.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/bitewize-main/client/src/context/AuthContext.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitewize-main/client/src/pages/home/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/bitewize-main/client/src/pages/home/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitewize-main/server/target/classes/br/edu/utfpr/pb/pw44s/server/controller/CrudController.class" beforeDir="false" afterPath="$PROJECT_DIR$/bitewize-main/server/target/classes/br/edu/utfpr/pb/pw44s/server/controller/CrudController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitewize-main/server/target/classes/br/edu/utfpr/pb/pw44s/server/dto/AddressDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/bitewize-main/server/target/classes/br/edu/utfpr/pb/pw44s/server/dto/AddressDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitewize-main/server/target/classes/br/edu/utfpr/pb/pw44s/server/dto/CategoryDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/bitewize-main/server/target/classes/br/edu/utfpr/pb/pw44s/server/dto/CategoryDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitewize-main/server/target/classes/br/edu/utfpr/pb/pw44s/server/dto/OrderDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/bitewize-main/server/target/classes/br/edu/utfpr/pb/pw44s/server/dto/OrderDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitewize-main/server/target/classes/br/edu/utfpr/pb/pw44s/server/dto/ProductDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/bitewize-main/server/target/classes/br/edu/utfpr/pb/pw44s/server/dto/ProductDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitewize-main/server/target/classes/br/edu/utfpr/pb/pw44s/server/dto/ProductOrderDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/bitewize-main/server/target/classes/br/edu/utfpr/pb/pw44s/server/dto/ProductOrderDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitewize-main/server/target/classes/br/edu/utfpr/pb/pw44s/server/error/ApiError.class" beforeDir="false" afterPath="$PROJECT_DIR$/bitewize-main/server/target/classes/br/edu/utfpr/pb/pw44s/server/error/ApiError.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitewize-main/server/target/classes/br/edu/utfpr/pb/pw44s/server/model/Address$AddressBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/bitewize-main/server/target/classes/br/edu/utfpr/pb/pw44s/server/model/Address$AddressBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitewize-main/server/target/classes/br/edu/utfpr/pb/pw44s/server/model/Category$CategoryBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/bitewize-main/server/target/classes/br/edu/utfpr/pb/pw44s/server/model/Category$CategoryBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitewize-main/server/target/classes/br/edu/utfpr/pb/pw44s/server/model/Order$OrderBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/bitewize-main/server/target/classes/br/edu/utfpr/pb/pw44s/server/model/Order$OrderBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitewize-main/server/target/classes/br/edu/utfpr/pb/pw44s/server/model/ProductOrder$ProductOrderBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/bitewize-main/server/target/classes/br/edu/utfpr/pb/pw44s/server/model/ProductOrder$ProductOrderBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitewize-main/server/target/classes/br/edu/utfpr/pb/pw44s/server/security/WebSecurity.class" beforeDir="false" afterPath="$PROJECT_DIR$/bitewize-main/server/target/classes/br/edu/utfpr/pb/pw44s/server/security/WebSecurity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitewize-main/server/target/classes/br/edu/utfpr/pb/pw44s/server/security/dto/AuthenticationResponse$AuthenticationResponseBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/bitewize-main/server/target/classes/br/edu/utfpr/pb/pw44s/server/security/dto/AuthenticationResponse$AuthenticationResponseBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitewize-main/server/target/classes/br/edu/utfpr/pb/pw44s/server/security/dto/AuthenticationResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/bitewize-main/server/target/classes/br/edu/utfpr/pb/pw44s/server/security/dto/AuthenticationResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitewize-main/server/target/classes/br/edu/utfpr/pb/pw44s/server/security/dto/AuthorityResponseDTO$AuthorityResponseDTOBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/bitewize-main/server/target/classes/br/edu/utfpr/pb/pw44s/server/security/dto/AuthorityResponseDTO$AuthorityResponseDTOBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitewize-main/server/target/classes/br/edu/utfpr/pb/pw44s/server/security/dto/AuthorityResponseDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/bitewize-main/server/target/classes/br/edu/utfpr/pb/pw44s/server/security/dto/AuthorityResponseDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitewize-main/server/target/classes/br/edu/utfpr/pb/pw44s/server/security/dto/UserResponseDTO$UserResponseDTOBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/bitewize-main/server/target/classes/br/edu/utfpr/pb/pw44s/server/security/dto/UserResponseDTO$UserResponseDTOBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitewize-main/server/target/classes/br/edu/utfpr/pb/pw44s/server/security/dto/UserResponseDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/bitewize-main/server/target/classes/br/edu/utfpr/pb/pw44s/server/security/dto/UserResponseDTO.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;RRamboli&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/RRamboli/BiteWize.git&quot;,
+    &quot;accountId&quot;: &quot;a371cd27-6f43-42d9-8f7d-be270f2fd084&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="36HCZU0amO07Q5WYP9RO17Tk9JV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/josea/Documents/AQQUIII/BiteWizeFinalizar/BiteWize/bitewize-main&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b0cfffbd-ae0c-4890-8e2d-7ba8e05d0af5" name="Changes" comment="" />
+      <created>1764654168133</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1764654168133</updated>
+    </task>
+    <servers />
+  </component>
+</project>

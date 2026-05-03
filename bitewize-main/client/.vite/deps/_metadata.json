@@ -1,0 +1,67 @@
+{
+  "hash": "a312d5d7",
+  "configHash": "1c2f2a45",
+  "lockfileHash": "1079e723",
+  "browserHash": "f7b982eb",
+  "optimized": {
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "1e1f98f2",
+      "needsInterop": true
+    },
+    "primereact/toast": {
+      "src": "../../node_modules/primereact/toast/toast.esm.js",
+      "file": "primereact_toast.js",
+      "fileHash": "71513db7",
+      "needsInterop": false
+    },
+    "primereact/card": {
+      "src": "../../node_modules/primereact/card/card.esm.js",
+      "file": "primereact_card.js",
+      "fileHash": "2835479e",
+      "needsInterop": false
+    },
+    "primereact/button": {
+      "src": "../../node_modules/primereact/button/button.esm.js",
+      "file": "primereact_button.js",
+      "fileHash": "21a20a66",
+      "needsInterop": false
+    },
+    "primereact/inputtext": {
+      "src": "../../node_modules/primereact/inputtext/inputtext.esm.js",
+      "file": "primereact_inputtext.js",
+      "fileHash": "92ff3349",
+      "needsInterop": false
+    },
+    "primereact/dropdown": {
+      "src": "../../node_modules/primereact/dropdown/dropdown.esm.js",
+      "file": "primereact_dropdown.js",
+      "fileHash": "f20df54e",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-4EBUSWYI": {
+      "file": "chunk-4EBUSWYI.js"
+    },
+    "chunk-IWKJTCXY": {
+      "file": "chunk-IWKJTCXY.js"
+    },
+    "chunk-U2KO6OTW": {
+      "file": "chunk-U2KO6OTW.js"
+    },
+    "chunk-IYOYZFBW": {
+      "file": "chunk-IYOYZFBW.js"
+    },
+    "chunk-EMXW2XNX": {
+      "file": "chunk-EMXW2XNX.js"
+    },
+    "chunk-2VZZ75IF": {
+      "file": "chunk-2VZZ75IF.js"
+    },
+    "chunk-3PPUDOJL": {
+      "file": "chunk-3PPUDOJL.js"
+    }
+  }
+}
