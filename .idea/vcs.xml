@@ -2,6 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BiteWize" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/bitewize-main/client/BiteWizeStoreClient" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/bitewize-main/server/BiteWizeStoreServer" vcs="Git" />
   </component>

@@ -54,7 +54,7 @@ public class OrderController extends CrudController<Order, OrderDTO, Long> {
 
         productOrderService.save(productOrder);
 
-        return ResponseEntity.ok("Produto adicionado ao carrinho!");
+        return ResponseEntity.ok(productOrder);
     }
 
     @GetMapping("/cart/{userId}")
